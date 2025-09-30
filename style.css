@@ -1,3 +1,11 @@
 .container {
     display: grid;
+    border: 4px;
+    width: 5px;
+    height: 5px;
+}
+
+.box {
+    width: 20px;
+    height:20px;
 }
