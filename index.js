@@ -23,8 +23,6 @@ makeRows(16, 16);
 
 
 
-
-
 const button = document.getElementById("button");
 
 button.addEventListener("click", () => {
